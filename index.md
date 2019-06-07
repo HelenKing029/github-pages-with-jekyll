@@ -1,3 +1,3 @@
-# Welcome to my Page
+# Welcome to my Blog
 
-I'm playing with Github pages
+A page to review my projects and what I've learned
